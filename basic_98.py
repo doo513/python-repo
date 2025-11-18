@@ -20,3 +20,4 @@ for i in range(10):
     for j in range(10):
         print(d[i][j],end = ' ')
     print()
+# hi
