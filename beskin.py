@@ -13,5 +13,5 @@ for i in range(1,int(target / (min+max))+1):
     else:
         sum = min + i*(min+max) + 1
         if(sum < target):
-            print(sum, end = ' \n')
+            print(sum, end = ' ')
     
